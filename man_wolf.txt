@@ -1,0 +1,23 @@
+Touche :
+
+- "Flèche haut" et "Z" = Avancer.
+
+- "Flèche bas" et "S" = Reculer.
+
+- "Flèche gauche" et "Q" = Tourner à gauche.
+
+- "Flèche droite" et "F" = Tourner à droite.
+
+- "R" et "Maj.gauche" = Courrir/Marcher.
+
+Règle :
+
+Vous devez rechercher les murs rouges et passez tous les
+niveaux.
+
+Votre score déccroit à chaque instant. S'il tombe à zéro,
+vous perdez.
+
+A chaque passage de niveau, vous gagnez des points.
+
+Le mur bleu est le point de départ.
